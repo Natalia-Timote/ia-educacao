@@ -17,7 +17,7 @@ A proposta consistia em construir uma página HTML completa utilizando as **tags
 ## 📚 Objetivos do Desafio
 
 * Utilizar corretamente as principais **tags semânticas HTML5**;
-* Aplicar recursos de marcação como **<strong>, <i>, <u>, <blockquote>, <mark> e listas ordenadas/não ordenadas**;
+* Aplicar recursos de marcação como **strong, i, u, blockquote, mark e listas ordenadas/não ordenadas**;
 * Criar uma página completa, acessível e organizada.
 
 ## 🛠️ Tecnologias Utilizadas
