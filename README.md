@@ -32,16 +32,16 @@ Uma prévia das principais funcionalidades do **Unindo IA e Educação**:
 
 O projeto está disponível para visualização na **Vercel**. Clique no link abaixo para acessar:
 
-<a href="" target="_blank">![Static Badge](https://img.shields.io/badge/Vercel-project?style=for-the-badge&color=A91079)</a>
+<a href="https://ia-educacao.vercel.app/" target="_blank">![Static Badge](https://img.shields.io/badge/Vercel-project?style=for-the-badge&color=A91079)</a>
 
 **📄 Página Inicial**
 
-Destaque do título e navegação com links âncora.
+Tela inicial do site "Unindo IA e Educação", mostrando o título destacado e menu de navegação com links para as principais seções do conteúdo.
 
 <img src="ia-educacao-home.png" width="600" alt="Página inicial"/>
 
 **🎓 Exemplo Prático com ChatGPT**
 
-Vídeo incorporado do canal EdCiências com exemplo de uso real do ChatGPT na construção de disciplinas Eletivas.
+Vídeo incorporado do canal EdCiências (https://www.youtube.com/@edciencias) com exemplo de uso real do ChatGPT na construção de disciplinas Eletivas.
 
 <img src="ia-educacao-video.png" width="600" alt="Vídeo de exemplo sobre uso do ChatGPT"/>
