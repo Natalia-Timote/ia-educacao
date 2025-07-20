@@ -2,7 +2,7 @@
 
 O **Unindo IA e Educação** é um site simples e informativo que discute o papel da **inteligência artificial no processo educacional**, destacando como essa tecnologia pode apoiar o trabalho docente, tornar o planejamento mais criativo e contribuir com o desenvolvimento de aulas mais personalizadas. Criado como parte de um desafio prático do **bootcamp Santander 2025 (DIO)**, o projeto utiliza diversas **tags semânticas HTML** para estruturar o conteúdo de forma clara, acessível e responsiva.
 
-![Static Badge](https://img.shields.io/badge/Conclu%C3%ADdo-label?style=for-the-badge&label=Status)![Static Badge](https://img.shields.io/badge/DIO-Curso-%23FF0000?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Conclu%C3%ADdo-label?style=for-the-badge&label=Status) ![Static Badge](https://img.shields.io/badge/Curso-DIO-%23e60000?style=for-the-badge)
 
 <hr>
 
