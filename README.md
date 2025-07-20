@@ -12,7 +12,7 @@ Este projeto foi desenvolvido como parte do desafio prático do bootcamp:
 
 * "Santander 2025 - Front-End"
 
-A proposta consistia em construir uma página HTML completa utilizando as **tags aprendidas no curso**. Neste projeto, o foco foi discutir de forma simples e prática **como a inteligência artificial pode apoiar o trabalho docente** na criação de aulas mais criativas e eficientes. Além do conteúdo textual, o site inclui **vídeo incorporado**, uso de tags como <mark>, <blockquote>, <time>, listas, links âncora e cabeçalhos hierárquicos.
+A proposta consistia em construir uma página HTML completa utilizando as **tags aprendidas no curso**. Neste projeto, o foco foi discutir de forma simples e prática **como a inteligência artificial pode apoiar o trabalho docente** na criação de aulas mais criativas e eficientes. Além do conteúdo textual, o site inclui **vídeo incorporado**, uso de tags como mark, blockquote, time, listas, links âncora e cabeçalhos hierárquicos.
 
 ## 📚 Objetivos do Desafio
 
